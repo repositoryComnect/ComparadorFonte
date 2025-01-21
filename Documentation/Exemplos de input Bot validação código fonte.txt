@@ -1,0 +1,16 @@
+Exemplos de Input Bot validação código fonte
+
+Python
+
+{
+  "codigo1": "def soma(a, b):\n    return a + b\n\nresultado = soma(2, 3)\nprint(resultado)",
+  "codigo2": "def soma(a, b):\n    return a - b\n\nresultado = soma(2, 3)\nprint(resultado)"
+}
+
+
+Java
+
+{
+  "codigo1": "public class Operacoes {public int soma(int a, int b) {return a + b;}}",
+  "codigo2": "public int soma(int x, int y) {return x + y;}"
+}

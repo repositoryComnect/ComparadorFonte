@@ -1,0 +1,5 @@
+CódigoBERT
+Este repositório fornece o código para reproduzir os experimentos em CodeBERT: 
+A Pre-Trained Model for Programming and Natural Languages​. 
+CodeBERT é um modelo pré-treinado para linguagem de programação, que é um modelo multiprogramação-linguagem pré-treinado em pares NL-PL em 6 linguagens de programação 
+(Python, Java, JavaScript, PHP, Ruby, Go).
